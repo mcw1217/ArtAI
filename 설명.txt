@@ -1,0 +1,12 @@
+자연어 설명으로부터 이미지를 생성해내는 Deep Learning AI
+
+Text-to-Image task를 위한 모델
+
+Computer Vision 과 Natural language processing이 결합된 task
+
+학습된 이미지에 따라 결과물이 잘 나옴
+
+OpenAi의 DALL-E와 차이점 -> DALL-E는 input text에서 NLP 분석 후 
+이에 상응하는 가장 가능성이 높은 이미지를 예측하는 방식
+
+Diffusion은 noise 이미지에서 역연산을 통해 이미지를 생성
